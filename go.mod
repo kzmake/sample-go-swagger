@@ -13,5 +13,5 @@ require (
 	github.com/go-openapi/validate v0.19.3
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/mailru/easyjson v0.7.0 // indirect
-	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
+	golang.org/x/net v0.7.0
 )
